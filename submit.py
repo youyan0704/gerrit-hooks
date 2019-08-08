@@ -1,4 +1,4 @@
-#!
+#! /usr/bin/env python
 # -*- coding: utf8 -*-
 """
 __author__ = 'Yan' Started by '2019-08-07'
